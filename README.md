@@ -12,3 +12,8 @@ Which health factors contribute the most to heart disease?
 What are the differences in heart disease cases between white males and white females? 
 Is there a difference in heart disease cases in races besides white? 
 What ages are the most susceptible to heart disease? 
+
+For the full storyboard, please go to:
+https://public.tableau.com/app/profile/melissa.kock/viz/HeartDiseaseProject_16534917185110/Story1?publish=yes
+
+Both datasets used are derived from the CDC official website
